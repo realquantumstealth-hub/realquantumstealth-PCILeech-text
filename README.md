@@ -1,5 +1,5 @@
 # realquantumstealth-text
-Quantumstealth在反作弊领域的一些科普宣传，收录2025年10月3日前在公众号发布的文章。
+Quantumstealth在反作弊领域的一些科普宣传，在Wiki收录2025年10月3日前在公众号发布的文章。
 
 Quantumstealth仅且是本团队名称，不是任何固件的种类，不得将本团队的任何产品用于作弊。
 
