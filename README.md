@@ -69,7 +69,7 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 <tr style="vertical-align:top;">
 
 <!-- 左栏 -->
-<td style="width:60%; padding-right:20px;">
+<td style="width:60%; padding-right:20px; vertical-align:top;">
 <p style="margin:0; font-weight:bold;">以下是 Quantumstealth 开源的仿真固件目录：</p>
 <ol style="margin-top:10px;">
 <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-Zerolink">PCILeech-DMA-Zerolink</a></li>
@@ -106,11 +106,12 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 </td>
 
 <!-- 右栏 -->
-<td style="width:40%; padding-left:10px; margin:0; vertical-align:top;">
+<td style="width:40%; padding-left:10px; vertical-align:top;">
 <div align="left" style="
+  margin:0;
   border:1px solid #ddd;
   border-radius:8px;
-  padding:14px 18px;
+  padding:12px 18px;
   line-height:1.6;
   word-wrap:break-word;
   word-break:break-all;
