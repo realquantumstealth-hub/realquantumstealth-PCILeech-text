@@ -13,7 +13,7 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，�
 
 1. [PCILeech-DMA-Zerolink](https://github.com/realquantumstealth-hub/PCILeech-DMA-Zerolink)
 
-2. [PCILeech-DMA-USB-3.2](https://github.com/realquantumstealth-hub/PCILeech-DMA-USB-3.2)
+2. [PCILeech-DMA-Fullstealth](https://github.com/realquantumstealth-hub/PCILeech-DMA-Fullstealth)
 
 3. [PCILeech-DMA-usb](https://github.com/realquantumstealth-hub/PCILeech-DMA-usb)
 
@@ -58,3 +58,5 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，�
 23. [PCILeech-DMA-AMD6800](https://github.com/realquantumstealth-hub/PCILeech-DMA-AMD6800)
 
 24. [PCILeech-DMA-USB4 ](https://github.com/realquantumstealth-hub/PCILeech-DMA-USB4)
+
+25. [PCILeech-DMA-USB-3.2](https://github.com/realquantumstealth-hub/PCILeech-DMA-USB-3.2)
