@@ -11,7 +11,7 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，�
 
 以下是Quantumstealth开源的仿真固件目录：
 
-1. [PCILeech-DMA-USB4 ](https://github.com/realquantumstealth-hub/PCILeech-DMA-USB4)
+1. [PCILeech-DMA-Zerolink](https://github.com/realquantumstealth-hub/PCILeech-DMA-Zerolink)
 
 2. [PCILeech-DMA-USB-3.2](https://github.com/realquantumstealth-hub/PCILeech-DMA-USB-3.2)
 
@@ -56,3 +56,5 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，�
 22. [PCILeech-DMA-asm1184e](https://github.com/realquantumstealth-hub/PCILeech-DMA-asm1184e)
 
 23. [PCILeech-DMA-AMD6800](https://github.com/realquantumstealth-hub/PCILeech-DMA-AMD6800)
+
+24. [PCILeech-DMA-USB4 ](https://github.com/realquantumstealth-hub/PCILeech-DMA-USB4)
