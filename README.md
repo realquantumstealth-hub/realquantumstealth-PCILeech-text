@@ -1,7 +1,46 @@
-# realquantumstealth-text
+<p align="center">
+  <img src="https://github.com/realquantumstealth-hub/realquantumstealth-images/blob/main/logo.png?raw=true" width="160" alt="Quantumstealth Logo">
+</p>
+
+<h1 align="center">Quantumstealth Text Documentation</h1>
+<p align="center">
+  <em>Promoting transparency, integrity, and innovation in hardware security.</em>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/qstealth"><img src="https://img.shields.io/badge/Discord-Join%20Chat-7289da?logo=discord&logoColor=white"></a>
+  <img src="https://img.shields.io/github/last-commit/realquantumstealth-hub/realquantumstealth-text">
+  <img src="https://img.shields.io/github/issues/realquantumstealth-hub/realquantumstealth-text">
+  <img src="https://img.shields.io/badge/license-MIT-green">
+</p>
+
+---
+
+## 💡 项目简介
+
+Quantumstealth 是一个专注于 **反作弊技术研究与安全教育** 的开源组织。  
+我们聚焦于 DMA/IOMMU 技术、ACPI 机制与硬件安全的边界探索，  
+坚持技术中立、反对滥用，推动公开透明的研究环境建设。
+
+---
+
+## 📘 目录
+
+- [官方声明](#官方声明)
+- [开源固件目录](#开源固件目录)
+- [补充说明](#补充说明)
+- [贡献与反馈](#贡献与反馈)
+- [法律与免责声明](#法律与免责声明)
+- [联系我们](#联系我们)
+- [鸣谢](#鸣谢)
+
+---
+
+## 📜 官方声明
+
 Quantumstealth在反作弊领域的一些科普宣传，在Wiki收录2025年10月3日前在公众号发布的文章。
 
-Quantumstealth discord:https://discord.gg/qstealth
+Quantumstealth Discord: [https://discord.gg/qstealth](https://discord.gg/qstealth)
 
 Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，**不得将本团队的任何产品用于作弊**。
 
@@ -9,22 +48,29 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 
 ---
 
-以**Zerolink、QuantumstealthWorld、Fullstealth、SpiderLab**为代表的等一系列，冒用盗用全息隐藏团队名义的固件商家，均为盗版，与本团队发布的固件仅有名称相同。同时，其销售的大多仿真类型的固件，Quantumstealth团队**已经开源**。
+## 🧩 相关说明与示例
+
+以 **Zerolink、QuantumstealthWorld、Fullstealth、SpiderLab** 为代表的等一系列，冒用盗用全息隐藏团队名义的固件商家，均为盗版，与本团队发布的固件仅有名称相同。  
+同时，其销售的大多仿真类型的固件，Quantumstealth团队**已经开源**。
 
 <p align="center">
-<img src="https://github.com/realquantumstealth-hub/realquantumstealth-images/blob/main/QuantumstealthWorld.jpg?raw=true" alt="QuantumstealthWorld.jpg" style="width:60%;">
+  <img src="https://github.com/realquantumstealth-hub/realquantumstealth-images/blob/main/QuantumstealthWorld.jpg?raw=true" alt="QuantumstealthWorld" width="60%">
 </p>
 
 <p align="center">
-<img src="https://github.com/realquantumstealth-hub/realquantumstealth-images/blob/main/SpiderLab.jpg?raw=true" alt="SpiderLab" style="width:50%;">
+  <img src="https://github.com/realquantumstealth-hub/realquantumstealth-images/blob/main/SpiderLab.jpg?raw=true" alt="SpiderLab" width="50%">
 </p>
 
 ---
 
+## 🧾 开源固件目录
+
 <table>
 <tr>
 <td width="70%" valign="top">
-<p><strong>以下是Quantumstealth开源的仿真固件目录：</strong></p>
+
+**以下是 Quantumstealth 开源的仿真固件目录：**
+
 <ol>
 <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-Zerolink">PCILeech-DMA-Zerolink</a></li>
 <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-Fullstealth">PCILeech-DMA-Fullstealth</a></li>
@@ -57,13 +103,47 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-ISA2">PCILeech-DMA-ISA2</a></li>
 <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-USB-2.0">PCILeech-DMA-USB-2.0</a></li>
 </ol>
+
 </td>
 <td width="30%" valign="top">
 <table width="400">
 <tr><td><strong>📌 补充说明</strong></td></tr>
-<tr><td>如果你需要更多的工程文件，例如<code>pcileech_enigma_x1.srcs</code>，请到 <a href="https://discord.gg/qstealth" target="_blank">Discord</a> 联系我。</td></tr>
-<tr><td>再次提醒，不要将本团队的任何产品用于作弊。</td></tr>
+<tr><td>如果你需要更多的工程文件，例如 <code>pcileech_enigma_x1.srcs</code>，请到 <a href="https://discord.gg/qstealth" target="_blank">Discord</a> 联系我。</td></tr>
+<tr><td>再次提醒：不得将本团队的任何产品用于作弊或商业用途。</td></tr>
 </table>
 </td>
 </tr>
 </table>
+
+---
+
+## 🤝 贡献与反馈
+
+我们欢迎安全研究者和技术爱好者的贡献与改进建议。  
+可通过 Pull Request 或 Issue 进行提交，  
+或在 [Discussions](https://github.com/realquantumstealth-hub/realquantumstealth-text/discussions) 中提出问题和想法。
+
+---
+
+## ⚖️ 法律与免责声明
+
+本项目仅供 **学术研究与安全教育** 使用。  
+严禁任何形式的商业化作弊、破解、攻击或非法利用。  
+团队及作者不对任何滥用行为承担法律责任。
+
+---
+
+## 📞 联系我们
+
+- 🌐 Discord 社区：[https://discord.gg/qstealth](https://discord.gg/qstealth)
+- 🧭 GitHub 主页：[realquantumstealth-hub](https://github.com/realquantumstealth-hub)
+- 📧 官方邮箱：quantumstealth@proton.me *(如有)*
+
+---
+
+## 🙏 鸣谢
+
+特别感谢以下社区与项目的启发与支持：  
+- PCILeech / DMA-Hunter / ACPI iASL / WinDbg 安全研究组  
+- 开源硬件与驱动分析社区的研究者们  
+- 所有为反作弊技术公开化做出贡献的同行  
