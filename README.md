@@ -21,52 +21,59 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<!-- 使用 HTML 表格实现左右两列布局（GitHub 支持），右侧为“小方块”侧栏 -->
+<table>
+  <tr>
+    <!-- 左列：目录（宽一些） -->
+    <td width="70%" valign="top">
 
-  <!-- 左边：目录部分 -->
-  <div style="flex: 3;">
-  <p><strong>以下是Quantumstealth开源的仿真固件目录：</strong></p>
+<strong>以下是Quantumstealth开源的仿真固件目录：</strong>
 
-  <ol>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-Zerolink">PCILeech-DMA-Zerolink</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-Fullstealth">PCILeech-DMA-Fullstealth</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-SpiderLab">PCILeech-DMA-SpiderLab</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-QuantumstealthWorld">PCILeech-DMA-QuantumstealthWorld</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-AMD-PSP-10.0">PCILeech-DMA-AMD-PSP-10.0</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-ASM-SATA">PCILeech-DMA-ASM-SATA</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-NVMEDISK">PCILeech-DMA-NVMEDISK</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-4080">PCILeech-DMA-4080</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-4070TS">PCILeech-DMA-4070TS</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-4070s">PCILeech-DMA-4070s</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-4060Ti">PCILeech-DMA-4060Ti</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-4060desktop">PCILeech-DMA-4060desktop</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-GPU-3060desktop-trash">PCILeech-DMA-3060desktop-trash</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-switch-port">PCILeech-DMA-switch-port</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-subs">PCILeech-DMA-subs</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-isa">PCILeech-DMA-isa</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-intel464f">PCILeech-DMA-intel464f</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-I5-12400">PCILeech-DMA-I5-12400</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-CSI2">PCILeech-DMA-CSI2</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-cpu-9700x">PCILeech-DMA-cpu-9700x</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-Brige-9900K">PCILeech-DMA-Brige-9900K</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-asm1184e">PCILeech-DMA-asm1184e</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-AMD6800">PCILeech-DMA-AMD6800</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-USB4">PCILeech-DMA-USB4</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-USB-3.2">PCILeech-DMA-USB-3.2</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-usb">PCILeech-DMA-usb</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-AMD-PSP-11.0">PCILeech-DMA-AMD-PSP-11.0</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-IOMMU">PCILeech-DMA-IOMMU</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-ISA2">PCILeech-DMA-ISA2</a></li>
-    <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-USB-2.0">PCILeech-DMA-USB-2.0</a></li>
-  </ol>
-  </div>
+<ol>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-Zerolink">PCILeech-DMA-Zerolink</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-Fullstealth">PCILeech-DMA-Fullstealth</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-SpiderLab">PCILeech-DMA-SpiderLab</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-QuantumstealthWorld">PCILeech-DMA-QuantumstealthWorld</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-AMD-PSP-10.0">PCILeech-DMA-AMD-PSP-10.0</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-ASM-SATA">PCILeech-DMA-ASM-SATA</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-NVMEDISK">PCILeech-DMA-NVMEDISK</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-4080">PCILeech-DMA-4080</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-4070TS">PCILeech-DMA-4070TS</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-4070s">PCILeech-DMA-4070s</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-4060Ti">PCILeech-DMA-4060Ti</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-4060desktop">PCILeech-DMA-4060desktop</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-GPU-3060desktop-trash">PCILeech-DMA-3060desktop-trash</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-switch-port">PCILeech-DMA-switch-port</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-subs">PCILeech-DMA-subs</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-isa">PCILeech-DMA-isa</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-intel464f">PCILeech-DMA-intel464f</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-I5-12400">PCILeech-DMA-I5-12400</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-CSI2">PCILeech-DMA-CSI2</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-cpu-9700x">PCILeech-DMA-cpu-9700x</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-Brige-9900K">PCILeech-DMA-Brige-9900K</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-asm1184e">PCILeech-DMA-asm1184e</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-AMD6800">PCILeech-DMA-AMD6800</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-USB4">PCILeech-DMA-USB4</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-USB-3.2">PCILeech-DMA-USB-3.2</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-usb">PCILeech-DMA-usb</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-AMD-PSP-11.0">PCILeech-DMA-AMD-PSP-11.0</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-IOMMU">PCILeech-DMA-IOMMU</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-ISA2">PCILeech-DMA-ISA2</a></li>
+<li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-USB-2.0">PCILeech-DMA-USB-2.0</a></li>
+</ol>
 
-  <!-- 右边：侧栏 -->
-  <div style="flex: 1; border-left: 1px solid #ddd; padding-left: 15px; font-size: 0.95em; color: #444;">
-    <h4>📢 补充说明</h4>
-    <p>测试测试测试</p>
-    <p>此侧栏用于放置项目附注、团队公告或临时声明。</p>
-    <p><strong>建议：</strong>未来可以放“版本更新日志”或“固件兼容性说明”。</p>
-  </div>
+    </td>
 
-</div>
+    <!-- 右列：小方块侧栏（宽度较窄，自动顶对齐） -->
+    <td width="30%" valign="top">
+      <table width="240">
+        <tr>
+          <td><strong>📌 补充说明</strong></td>
+        </tr>
+        <tr>
+          <td>测试测试测试</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
