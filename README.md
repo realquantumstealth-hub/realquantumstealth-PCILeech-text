@@ -107,36 +107,30 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 
 <!-- 右栏 -->
 <td style="width:40%; padding-left:10px; vertical-align:top;">
-  <!-- 改为 block，去掉 position top 偏移；box-sizing 保证 padding 包含在高度计算中 -->
-  <div style="
-    display:block;
-    box-sizing:border-box;
-    width:100%;
-    /* 可视上减少一点内边距使内容更靠上；根据需要调整 top/bottom padding */
-    padding:8px 18px;
-    background-color:var(--color-canvas-subtle, #fafafa);
-    border:1px solid #ddd;
-    border-radius:8px;
-    line-height:1.6;
-    word-wrap:break-word;
-    word-break:break-all;
-    box-shadow:0 2px 6px rgba(0,0,0,0.08);
-    /* optional: 让这个盒子高度至少和左栏一致（非必须） */
-    /* min-height: 140px; */
-  ">
-    <!-- 去掉段落的顶部外边距，使用 margin:0，并用 margin-top 仅在需要处产生间距 -->
-    <p style="margin:0; font-weight:bold;">📌 补充说明</p>
-
-    <p style="margin:6px 0 0 0;">
-      如果你需要更多的工程文件，例如 <code>pcileech_enigma_x1.srcs</code>，
-      请到 <a href="https://discord.gg/qstealth" target="_blank"><strong>Discord</strong></a> 联系我。
-    </p>
-
-    <p style="margin:6px 0 0 0;"><strong>再次提醒：</strong>不得将本团队的任何产品用于作弊或商业用途。</p>
-  </div>
+<!-- 用 span 代替 div，消除 block 基线偏移 -->
+<span style="
+  display:inline-block;
+  position:relative;
+  top:-2px;
+  background-color:var(--color-canvas-subtle, #fafafa);
+  border:1px solid #ddd;
+  border-radius:8px;
+  padding:12px 18px;
+  line-height:1.6;
+  word-wrap:break-word;
+  word-break:break-all;
+  box-shadow:0 2px 6px rgba(0,0,0,0.08);
+">
+<p style="margin:0; font-weight:bold;">📌 补充说明</p>
+<p style="margin-top:8px;">
+如果你需要更多的工程文件，例如 <code>pcileech_enigma_x1.srcs</code>，
+请到 <a href="https://discord.gg/qstealth" target="_blank"><strong>Discord</strong></a> 联系我。
+</p>
+<p style="margin-top:8px;"><strong>再次提醒：</strong>不得将本团队的任何产品用于作弊或商业用途。</p>
+</span>
 </td>
-
-
+</tr>
+</table>
 
 ---
 
