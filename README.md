@@ -61,8 +61,8 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 <td width="30%" valign="top">
 <table width="400">
 <tr><td><strong>📌 补充说明</strong></td></tr>
-<tr><td>如果你需要更多的工程文件，例如`pcileech_enigma_x1.srcs`，请到[discord](https://discord.gg/qstealth)联系我</td></tr>
-<tr><td>再次提醒，不要将本团队的任何产品用于作弊</td></tr>
+<tr><td>如果你需要更多的工程文件，例如<code>pcileech_enigma_x1.srcs</code>，请到 <a href="https://discord.gg/qstealth" target="_blank">Discord</a> 联系我。</td></tr>
+<tr><td>再次提醒，不要将本团队的任何产品用于作弊。</td></tr>
 </table>
 </td>
 </tr>
