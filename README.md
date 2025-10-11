@@ -9,9 +9,10 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，�
 
 以**Zerolink、QuantumstealthWorld、Fullstealth、SpiderLab**为代表的等一系列，冒用盗用全息隐藏团队名义的固件商家，均为盗版，与本团队发布的固件仅有名称相同。同时，其销售的大多仿真类型的固件，Quantumstealth团队**已经开源**。
 
-![QuantumstealthWorld.jpg](https://github.com/realquantumstealth-hub/realquantumstealth-images/blob/main/QuantumstealthWorld.jpg)width="50%"
+<img src="https://github.com/realquantumstealth-hub/realquantumstealth-images/blob/main/QuantumstealthWorld.jpg?raw=true" alt="QuantumstealthWorld.jpg" style="width:50%;">
 
-![SpiderLab.jpg](https://github.com/realquantumstealth-hub/realquantumstealth-images/blob/main/SpiderLab.jpg)width="50%"
+<img src="https://github.com/realquantumstealth-hub/realquantumstealth-images/blob/main/SpiderLab.jpg?raw=true" alt="SpiderLab" style="width:50%;">
+
 
 以下是Quantumstealth开源的仿真固件目录：
 
