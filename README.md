@@ -79,6 +79,6 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 
 28. [PCILeech-DMA-IOMMU](https://github.com/realquantumstealth-hub/PCILeech-DMA-IOMMU)
 
-29. [PCILeech-DMA-4090](https://github.com/realquantumstealth-hub/PCILeech-DMA-4090)
+29. [PCILeech-DMA-ISA2](https://github.com/realquantumstealth-hub/PCILeech-DMA-ISA2)
 
 30. [PCILeech-DMA-USB-2.0](https://github.com/realquantumstealth-hub/PCILeech-DMA-USB-2.0)
