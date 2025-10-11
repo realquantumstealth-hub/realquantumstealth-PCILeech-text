@@ -10,48 +10,49 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，�
 以Zerolink、QuantumstealthWorld、Fullstealth、SpiderLab为代表的等一系列，冒用盗用全息隐藏团队名义的固件商家，均为盗版，与本团队发布的固件仅有名称相同。同时，其销售的大多仿真类型的固件，Quantumstealth团队已经开源。
 
 以下是Quantumstealth开源的固件目录：
-[PCILeech-DMA-USB4 ](https://github.com/realquantumstealth-hub/PCILeech-DMA-USB4)
 
-[PCILeech-DMA-USB-3.2](https://github.com/realquantumstealth-hub/PCILeech-DMA-USB-3.2)
+1. [PCILeech-DMA-USB4 ](https://github.com/realquantumstealth-hub/PCILeech-DMA-USB4)
 
-[PCILeech-DMA-usb](https://github.com/realquantumstealth-hub/PCILeech-DMA-usb)
+2. [PCILeech-DMA-USB-3.2](https://github.com/realquantumstealth-hub/PCILeech-DMA-USB-3.2)
 
-[PCILeech-DMA-AMD-PSP-11.0](https://github.com/realquantumstealth-hub/PCILeech-DMA-AMD-PSP-11.0)
+3.[PCILeech-DMA-usb](https://github.com/realquantumstealth-hub/PCILeech-DMA-usb)
 
-[PCILeech-DMA-AMD-PSP-10.0 ](https://github.com/realquantumstealth-hub/PCILeech-DMA-AMD-PSP-10.0)
+4.[PCILeech-DMA-AMD-PSP-11.0](https://github.com/realquantumstealth-hub/PCILeech-DMA-AMD-PSP-11.0)
 
-[PCILeech-DMA-ASM-SATA](https://github.com/realquantumstealth-hub/PCILeech-DMA-ASM-SATA)
+5.[PCILeech-DMA-AMD-PSP-10.0 ](https://github.com/realquantumstealth-hub/PCILeech-DMA-AMD-PSP-10.0)
 
-[PCILeech-DMA-NVMEDISK](https://github.com/realquantumstealth-hub/PCILeech-DMA-NVMEDISK)
+6.[PCILeech-DMA-ASM-SATA](https://github.com/realquantumstealth-hub/PCILeech-DMA-ASM-SATA)
 
-[PCILeech-DMA-4080](https://github.com/realquantumstealth-hub/PCILeech-DMA-4080)
+7.[PCILeech-DMA-NVMEDISK](https://github.com/realquantumstealth-hub/PCILeech-DMA-NVMEDISK)
 
-[[PCILeech-DMA-4080](https://github.com/realquantumstealth-hub/PCILeech-DMA-4070TS)
+8.[PCILeech-DMA-4080](https://github.com/realquantumstealth-hub/PCILeech-DMA-4080)
 
-[[PCILeech-DMA-4080](https://github.com/realquantumstealth-hub/PCILeech-DMA-4070s)
+9.[[PCILeech-DMA-4080](https://github.com/realquantumstealth-hub/PCILeech-DMA-4070TS)
 
-[PCILeech-DMA-4060Ti ](https://github.com/realquantumstealth-hub/PCILeech-DMA-4060Ti)
+10.[[PCILeech-DMA-4080](https://github.com/realquantumstealth-hub/PCILeech-DMA-4070s)
 
-[PCILeech-DMA-4060desktop](https://github.com/realquantumstealth-hub/PCILeech-DMA-4060desktop)
+11.[PCILeech-DMA-4060Ti ](https://github.com/realquantumstealth-hub/PCILeech-DMA-4060Ti)
 
-[PCILeech-DMA-4060](https://github.com/realquantumstealth-hub/PCILeech-DMA-GPU-3060desktop-trash)
+12.[PCILeech-DMA-4060desktop](https://github.com/realquantumstealth-hub/PCILeech-DMA-4060desktop)
 
-[PCILeech-DMA-switch-port ](https://github.com/realquantumstealth-hub/PCILeech-DMA-switch-port)
+13.[PCILeech-DMA-4060](https://github.com/realquantumstealth-hub/PCILeech-DMA-GPU-3060desktop-trash)
 
-[PCILeech-DMA-subs ](https://github.com/realquantumstealth-hub/PCILeech-DMA-subs)
+14.[PCILeech-DMA-switch-port ](https://github.com/realquantumstealth-hub/PCILeech-DMA-switch-port)
 
-[PCILeech-DMA-isa ](https://github.com/realquantumstealth-hub/PCILeech-DMA-isa)
+15.[PCILeech-DMA-subs ](https://github.com/realquantumstealth-hub/PCILeech-DMA-subs)
 
-[PCILeech-DMA-intel464f](https://github.com/realquantumstealth-hub/PCILeech-DMA-intel464f)
+16.[PCILeech-DMA-isa ](https://github.com/realquantumstealth-hub/PCILeech-DMA-isa)
 
-[PCILeech-DMA-I5-12400](https://github.com/realquantumstealth-hub/PCILeech-DMA-I5-12400)
+17.[PCILeech-DMA-intel464f](https://github.com/realquantumstealth-hub/PCILeech-DMA-intel464f)
 
-[PCILeech-DMA-CSI2](https://github.com/realquantumstealth-hub/PCILeech-DMA-CSI2)
+18.[PCILeech-DMA-I5-12400](https://github.com/realquantumstealth-hub/PCILeech-DMA-I5-12400)
 
-[PCILeech-DMA-cpu-9700x](https://github.com/realquantumstealth-hub/PCILeech-DMA-cpu-9700x)
+19.[PCILeech-DMA-CSI2](https://github.com/realquantumstealth-hub/PCILeech-DMA-CSI2)
 
-[PCILeech-DMA-Brige-9900K](https://github.com/realquantumstealth-hub/PCILeech-DMA-Brige-9900K)
+20.[PCILeech-DMA-cpu-9700x](https://github.com/realquantumstealth-hub/PCILeech-DMA-cpu-9700x)
 
-[PCILeech-DMA-asm1184e](https://github.com/realquantumstealth-hub/PCILeech-DMA-asm1184e)
+21.[PCILeech-DMA-Brige-9900K](https://github.com/realquantumstealth-hub/PCILeech-DMA-Brige-9900K)
 
-[PCILeech-DMA-AMD6800](https://github.com/realquantumstealth-hub/PCILeech-DMA-AMD6800)
+22.[PCILeech-DMA-asm1184e](https://github.com/realquantumstealth-hub/PCILeech-DMA-asm1184e)
+
+23.[PCILeech-DMA-AMD6800](https://github.com/realquantumstealth-hub/PCILeech-DMA-AMD6800)
