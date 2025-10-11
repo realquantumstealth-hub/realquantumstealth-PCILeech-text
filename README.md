@@ -65,7 +65,6 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 
 ## 🧾 开源固件目录
 
-<!-- ✅ 顶格显示 + 暗色模式适配 + 自动换行 -->
 <table style="width:100%; border-collapse:collapse; table-layout:fixed;">
 <tr style="vertical-align:top;">
 <td style="width:60%; padding-right:20px;">
@@ -105,38 +104,22 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 </td>
 
 <td style="
-width:40%;
-padding:18px 22px;
-border:1px solid #ddd;
-border-radius:8px;
-line-height:1.6;
-word-wrap:break-word;
-word-break:break-all;
-box-shadow:0 2px 6px rgba(0,0,0,0.08);
-margin:0;
+  width:40%;
+  padding:18px 22px;
+  background:#fafafa;
+  border:1px solid #ddd;
+  border-radius:8px;
+  line-height:1.6;
+  word-wrap:break-word;
+  word-break:break-all;
+  box-shadow:0 2px 6px rgba(0,0,0,0.08);
 ">
-
-<!-- ✅ 顶格标题 -->
-<div style="
-background-color:#fafafa;
-padding:14px 18px;
-border-radius:8px;
-transition:background-color 0.3s ease;
-">
-<style>
-@media (prefers-color-scheme: dark) {
-  div[style*='background-color:#fafafa'] {
-    background-color: #2b2b2b !important;
-    border-color: #444 !important;
-  }
-}
-</style>
-
-<h4 style="margin-top:0;">📌 补充说明</h4>
-<p>如果你需要更多的工程文件，例如 <code>pcileech_enigma_x1.srcs</code>，
-请到 <a href="https://discord.gg/qstealth" target="_blank"><strong>Discord</strong></a> 联系我。</p>
+<h4>📌 补充说明</h4>
+<p>
+如果你需要更多的工程文件，例如 <code>pcileech_enigma_x1.srcs</code>，
+请到 <a href="https://discord.gg/qstealth" target="_blank"><strong>Discord</strong></a> 联系我。
+</p>
 <p><strong>再次提醒：</strong>不得将本团队的任何产品用于作弊或商业用途。</p>
-</div>
 </td>
 </tr>
 </table>
