@@ -59,7 +59,7 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 </ol>
 </td>
 <td width="30%" valign="top">
-<table width="240">
+<table width="600">
 <tr><td><strong>📌 补充说明</strong></td></tr>
 <tr><td>测试测试测试</td></tr>
 </table>
