@@ -69,7 +69,7 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 <tr style="vertical-align:top;">
 
 <!-- 左栏 -->
-<td style="width:60%; padding-right:20px;">
+<td style="width:60%; padding-right:20px; vertical-align:top;">
 <p style="margin:0; font-weight:bold;">以下是 Quantumstealth 开源的仿真固件目录：</p>
 <ol style="margin-top:10px;">
 <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-Zerolink">PCILeech-DMA-Zerolink</a></li>
@@ -107,12 +107,12 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 
 <!-- 右栏 -->
 <td style="width:40%; padding-left:10px; vertical-align:top;">
-
-<!-- 使用 inline-block 消除顶部空白 -->
-<div align="left" style="
+<!-- 用 span 代替 div，消除 block 基线偏移 -->
+<span style="
   display:inline-block;
-  transform: translateY(-4px);
-  background-color: var(--color-canvas-subtle, #fafafa);
+  position:relative;
+  top:-2px;
+  background-color:var(--color-canvas-subtle, #fafafa);
   border:1px solid #ddd;
   border-radius:8px;
   padding:12px 18px;
@@ -127,11 +127,11 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 请到 <a href="https://discord.gg/qstealth" target="_blank"><strong>Discord</strong></a> 联系我。
 </p>
 <p style="margin-top:8px;"><strong>再次提醒：</strong>不得将本团队的任何产品用于作弊或商业用途。</p>
-</div>
-
+</span>
 </td>
 </tr>
 </table>
+
 
 ---
 
