@@ -21,14 +21,10 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 
 ---
 
-<!-- 使用 HTML 表格实现左右两列布局（GitHub 支持），右侧为“小方块”侧栏 -->
 <table>
-  <tr>
-    <!-- 左列：目录（宽一些） -->
-    <td width="70%" valign="top">
-
-<strong>以下是Quantumstealth开源的仿真固件目录：</strong>
-
+<tr>
+<td width="70%" valign="top">
+<p><strong>以下是Quantumstealth开源的仿真固件目录：</strong></p>
 <ol>
 <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-Zerolink">PCILeech-DMA-Zerolink</a></li>
 <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-Fullstealth">PCILeech-DMA-Fullstealth</a></li>
@@ -61,19 +57,12 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-ISA2">PCILeech-DMA-ISA2</a></li>
 <li><a href="https://github.com/realquantumstealth-hub/PCILeech-DMA-USB-2.0">PCILeech-DMA-USB-2.0</a></li>
 </ol>
-
-    </td>
-
-    <!-- 右列：小方块侧栏（宽度较窄，自动顶对齐） -->
-    <td width="30%" valign="top">
-      <table width="240">
-        <tr>
-          <td><strong>📌 补充说明</strong></td>
-        </tr>
-        <tr>
-          <td>测试测试测试</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+</td>
+<td width="30%" valign="top">
+<table width="240">
+<tr><td><strong>📌 补充说明</strong></td></tr>
+<tr><td>测试测试测试</td></tr>
+</table>
+</td>
+</tr>
 </table>
