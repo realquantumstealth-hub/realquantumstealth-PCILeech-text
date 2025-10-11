@@ -78,3 +78,7 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 27. [PCILeech-DMA-AMD-PSP-11.0](https://github.com/realquantumstealth-hub/PCILeech-DMA-AMD-PSP-11.0)
 
 28. [PCILeech-DMA-IOMMU](https://github.com/realquantumstealth-hub/PCILeech-DMA-IOMMU)
+
+29. [PCILeech-DMA-4090](https://github.com/realquantumstealth-hub/PCILeech-DMA-4090)
+
+30. [PCILeech-DMA-USB-2.0](https://github.com/realquantumstealth-hub/PCILeech-DMA-USB-2.0)
