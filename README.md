@@ -38,7 +38,7 @@ Quantumstealth 是一个专注于 **反作弊技术研究与安全教育** 的�
 
 ## 📜 官方声明
 
-Quantumstealth在反作弊领域的一些科普宣传，在Wiki收录2025年10月3日前在公众号发布的文章。
+Quantumstealth在反作弊领域的一些科普宣传，在[Wiki](https://github.com/realquantumstealth-hub/realquantumstealth-PCILeech-text/wiki)收录2025年10月3日前在公众号发布的文章。
 
 Quantumstealth Discord: [https://discord.gg/qstealth](https://discord.gg/qstealth)
 
