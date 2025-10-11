@@ -7,7 +7,7 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，�
 
 提前申明，本团队**从未发布过任何涉及能通过游戏反作弊的软硬件**，**从未授权任何个人或第三方机构以本团队名义在网络平台售卖软硬件**，也**从未以任何形式宣传本团队的技术可以用于通过游戏反作弊**，我们**只**作学术性的技术分享。
 
-以Zerolink、QuantumstealthWorld、Fullstealth、SpiderLab为代表的等一系列，冒用盗用全息隐藏团队名义的固件商家，均为盗版，与本团队发布的固件仅有名称相同。同时，其销售的大多仿真类型的固件，Quantumstealth团队**已经开源**。
+以**Zerolink、QuantumstealthWorld、Fullstealth、SpiderLab**为代表的等一系列，冒用盗用全息隐藏团队名义的固件商家，均为盗版，与本团队发布的固件仅有名称相同。同时，其销售的大多仿真类型的固件，Quantumstealth团队**已经开源**。
 
 以下是Quantumstealth开源的仿真固件目录：
 
@@ -15,9 +15,9 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，�
 
 2. [PCILeech-DMA-Fullstealth](https://github.com/realquantumstealth-hub/PCILeech-DMA-Fullstealth)
 
-3. [PCILeech-DMA-usb](https://github.com/realquantumstealth-hub/PCILeech-DMA-usb)
+3. [PCILeech-DMA-SpiderLab](https://github.com/realquantumstealth-hub/SpiderLab)
 
-4. [PCILeech-DMA-AMD-PSP-11.0](https://github.com/realquantumstealth-hub/PCILeech-DMA-AMD-PSP-11.0)
+4. [PCILeech-DMA-QuantumstealthWorld](https://github.com/realquantumstealth-hub/PCILeech-DMA-QuantumstealthWorld)
 
 5. [PCILeech-DMA-AMD-PSP-10.0 ](https://github.com/realquantumstealth-hub/PCILeech-DMA-AMD-PSP-10.0)
 
@@ -60,3 +60,7 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，�
 24. [PCILeech-DMA-USB4 ](https://github.com/realquantumstealth-hub/PCILeech-DMA-USB4)
 
 25. [PCILeech-DMA-USB-3.2](https://github.com/realquantumstealth-hub/PCILeech-DMA-USB-3.2)
+
+26. [PCILeech-DMA-usb](https://github.com/realquantumstealth-hub/PCILeech-DMA-usb)
+
+27. [PCILeech-DMA-AMD-PSP-11.0](https://github.com/realquantumstealth-hub/PCILeech-DMA-AMD-PSP-11.0)
