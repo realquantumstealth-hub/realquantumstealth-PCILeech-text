@@ -65,9 +65,9 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 
 ## 🧾 开源固件目录
 
-<!-- ✅ 左右标题齐平 + 暗色模式适配 + 自动换行 -->
 <table style="width:100%; border-collapse:collapse; table-layout:fixed;">
 <tr style="vertical-align:top;">
+
 <!-- 左栏 -->
 <td style="width:60%; padding-right:20px;">
 <p style="margin:0; font-weight:bold;">以下是 Quantumstealth 开源的仿真固件目录：</p>
@@ -107,8 +107,7 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 
 <!-- 右栏 -->
 <td style="width:40%; padding-left:10px; margin:0; vertical-align:top;">
-<div style="
-  background-color:#fafafa;
+<div align="left" style="
   border:1px solid #ddd;
   border-radius:8px;
   padding:14px 18px;
@@ -117,16 +116,8 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
   word-break:break-all;
   box-shadow:0 2px 6px rgba(0,0,0,0.08);
   transition:background-color 0.3s ease;
+  background-color: var(--color-canvas-subtle, #fafafa);
 ">
-<style>
-@media (prefers-color-scheme: dark) {
-  div[style*='background-color:#fafafa'] {
-    background-color:#2b2b2b !important;
-    border-color:#444 !important;
-  }
-}
-</style>
-
 <p style="margin:0; font-weight:bold;">📌 补充说明</p>
 <p style="margin-top:8px;">
 如果你需要更多的工程文件，例如 <code>pcileech_enigma_x1.srcs</code>，
