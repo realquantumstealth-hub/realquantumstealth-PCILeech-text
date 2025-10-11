@@ -126,7 +126,7 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 如果你需要更多的工程文件，例如 <code>pcileech_enigma_x1.srcs</code>，
 请到 <a href="https://discord.gg/qstealth" target="_blank"><strong>Discord</strong></a> 联系我。
 </p>
-<p style="margin-top:8px;"><strong>再次提醒：</strong>不得将本团队的任何产品用于作弊或商业用途。</p>
+<p style="margin-top:8px;"><strong>再次提醒：</strong>不得将本团队的任何产品用于作弊。</p>
 </span>
 </td>
 </tr>
