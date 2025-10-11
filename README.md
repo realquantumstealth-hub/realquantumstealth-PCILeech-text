@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/realquantumstealth-hub/realquantumstealth-images/blob/main/logo.png?raw=true" width="160" alt="Quantumstealth Logo">
+  <img src="https://github.com/realquantumstealth-hub/realquantumstealth-images/blob/main/logo.jpg?raw=true" width="160" alt="Quantumstealth Logo">
 </p>
 
 <h1 align="center">Quantumstealth Text Documentation</h1>
