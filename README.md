@@ -3,9 +3,11 @@ Quantumstealth在反作弊领域的一些科普宣传，在Wiki收录2025年10�
 
 Quantumstealth discord:https://discord.gg/qstealth
 
-Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，不得将本团队的任何产品用于作弊。
+Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，**不得将本团队的任何产品用于作弊**。
 
 提前申明，本团队**从未发布过任何涉及能通过游戏反作弊的软硬件**，**从未授权任何个人或第三方机构以本团队名义在网络平台售卖软硬件**，也**从未以任何形式宣传本团队的技术可以用于通过游戏反作弊**，我们**只**作学术性的技术分享。
+
+---
 
 以**Zerolink、QuantumstealthWorld、Fullstealth、SpiderLab**为代表的等一系列，冒用盗用全息隐藏团队名义的固件商家，均为盗版，与本团队发布的固件仅有名称相同。同时，其销售的大多仿真类型的固件，Quantumstealth团队**已经开源**。
 
@@ -16,6 +18,8 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，�
 <p align="center">
 <img src="https://github.com/realquantumstealth-hub/realquantumstealth-images/blob/main/SpiderLab.jpg?raw=true" alt="SpiderLab" style="width:50%;">
 </p>
+
+---
 
 以下是Quantumstealth开源的仿真固件目录：
 
