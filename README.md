@@ -120,7 +120,7 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 ## 🤝 贡献与反馈
 
 我们欢迎安全研究者和技术爱好者的贡献与改进建议。  
-可在 [Dicord](https://discord.gg/qstealth) 中提出问题和想法。
+可在 [Discord](https://discord.gg/qstealth) 中提出问题和想法。
 
 ---
 
