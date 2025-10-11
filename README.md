@@ -14,7 +14,7 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，�
 </p>
 
 <p align="center">
-<img src="https://github.com/realquantumstealth-hub/realquantumstealth-images/blob/main/SpiderLab.jpg?raw=true" alt="SpiderLab" style="width:60%;">
+<img src="https://github.com/realquantumstealth-hub/realquantumstealth-images/blob/main/SpiderLab.jpg?raw=true" alt="SpiderLab" style="width:40%;">
 </p>
 
 以下是Quantumstealth开源的仿真固件目录：
