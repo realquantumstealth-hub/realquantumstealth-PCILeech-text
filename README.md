@@ -39,15 +39,15 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，*
 
 8. [PCILeech-DMA-4080](https://github.com/realquantumstealth-hub/PCILeech-DMA-4080)
 
-9. [PCILeech-DMA-4080](https://github.com/realquantumstealth-hub/PCILeech-DMA-4070TS)
+9. [PCILeech-DMA-4070TS](https://github.com/realquantumstealth-hub/PCILeech-DMA-4070TS)
 
-10. [PCILeech-DMA-4080](https://github.com/realquantumstealth-hub/PCILeech-DMA-4070s)
+10. [PCILeech-DMA-4070s](https://github.com/realquantumstealth-hub/PCILeech-DMA-4070s)
 
 11. [PCILeech-DMA-4060Ti ](https://github.com/realquantumstealth-hub/PCILeech-DMA-4060Ti)
 
 12. [PCILeech-DMA-4060desktop](https://github.com/realquantumstealth-hub/PCILeech-DMA-4060desktop)
 
-13. [PCILeech-DMA-4060](https://github.com/realquantumstealth-hub/PCILeech-DMA-GPU-3060desktop-trash)
+13. [PCILeech-DMA-3060desktop-trash](https://github.com/realquantumstealth-hub/PCILeech-DMA-GPU-3060desktop-trash)
 
 14. [PCILeech-DMA-switch-port ](https://github.com/realquantumstealth-hub/PCILeech-DMA-switch-port)
 
