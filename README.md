@@ -1,7 +1,7 @@
 # realquantumstealth-text
 Quantumstealth在反作弊领域的一些科普宣传，在Wiki收录2025年10月3日前在公众号发布的文章。
 
-Quantumstealth discord:https://discord.gg/qstealth
+<a href="https://discord.gg/qstealth" target="_blank">Quantumstealth discord</a>:https://discord.gg/qstealth
 
 Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，**不得将本团队的任何产品用于作弊**。
 
