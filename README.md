@@ -42,7 +42,7 @@ Quantumstealth在反作弊领域的一些科普宣传，在[Wiki](https://github
 
 Quantumstealth Discord: [https://discord.gg/qstealth](https://discord.gg/qstealth)
 
-Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，**不得将本团队的任何产品用于作弊**。
+Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，将本团队的任何产品在VT-d/IOMMU检测下都无法隐藏读取数据的行径，且**不得将本团队的任何产品用于作弊**。
 
 提前申明，本团队**从未发布过任何涉及能通过游戏反作弊的软硬件**，**从未授权任何个人或第三方机构以本团队名义在网络平台售卖软硬件**，也**从未以任何形式宣传本团队的技术可以用于通过游戏反作弊**，我们**只**作学术性的技术分享。
 
