@@ -57,6 +57,8 @@ Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，�
   <img src="https://github.com/realquantumstealth-hub/realquantumstealth-images/blob/main/QuantumstealthWorld.jpg?raw=true" alt="QuantumstealthWorld" width="60%">
 </p>
 
+### Spiderlab is a group of scammers. We have never known them and have never sold our team.
+
 <p align="center">
   <img src="https://github.com/realquantumstealth-hub/realquantumstealth-images/blob/main/SpiderLab.jpg?raw=true" alt="SpiderLab" width="50%">
 </p>
