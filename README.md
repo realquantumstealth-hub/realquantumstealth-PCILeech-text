@@ -40,7 +40,7 @@ Quantumstealth 是一个专注于 **反作弊技术研究与安全教育** 的�
 
 Quantumstealth在反作弊领域的一些科普宣传，在[Wiki](https://github.com/realquantumstealth-hub/realquantumstealth-PCILeech-text/wiki)收录2025年10月3日前在公众号发布的文章。
 
-Quantumstealth Discord: [https://discord.gg/qstealth](https://discord.gg/qstealth)
+Quantumstealth Discord: [https://discord.gg/qslab](https://discord.gg/qslab)
 
 Quantumstealth**仅且是**本团队**名称**，不是任何固件的种类，本团队的任何产品在VT-d/IOMMU检测下都无法隐藏读取数据的行径，且**不得将本团队的任何产品用于作弊**。
 
@@ -153,7 +153,7 @@ Quantumstealth团队不对任何滥用行为承担法律责任。
 
 ## 📞 联系我们
 
-- 🌐 Discord 社区：[https://discord.gg/qstealth](https://discord.gg/qstealth)
+- 🌐 Discord 社区：[https://discord.gg/qslab](https://discord.gg/qslab)
 - 🧭 GitHub 主页：[realquantumstealth-hub](https://github.com/realquantumstealth-hub)
 - 📧 官方邮箱：realquantumstealth@gmail.com
 
